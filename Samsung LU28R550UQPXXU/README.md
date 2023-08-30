@@ -1,3 +1,4 @@
+## Settings
 Brightness 10
 Contrast 75
 Sharpness 56
